@@ -11,6 +11,9 @@ To optimize marketing budget allocation and maximize profitability by analyzing 
 * The **Facebook** channel delivered the highest ROI, making it the most efficient marketing lever for this dataset.
 * Campaigns with lower acquisition costs did not necessarily correlate with higher conversion rates, suggesting a need for quality-focused targeting.
 
+<img width="613" height="520" alt="image" src="https://github.com/user-attachments/assets/da3f4360-33e3-46f3-9dca-ab7473749771" />
+
+
 ### SQL Query
 ```sql
 SELECT 
